@@ -7,7 +7,7 @@ Twilio SMS Integration 2017 for v8
 ==================================
 
 * Twilio SMS Integration. 
-* pls install pip twillio 
+* pip install twilio==5.6.0
 
 * Provide Registered or Test account Twilio mobile number, account and token in twiliomodel. 
 Contributors
